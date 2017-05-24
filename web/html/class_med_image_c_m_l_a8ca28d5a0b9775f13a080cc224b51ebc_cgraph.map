@@ -1,0 +1,12 @@
+<map id="MedImageCML::applyFilterMultiplyRGB" name="MedImageCML::applyFilterMultiplyRGB">
+<area shape="rect" id="node2" href="$class_pixel_buffer.html#a26dc9286596d27cd416d34611c00602e" title="PixelBuffer::getWidth" alt="" coords="235,5,381,32"/>
+<area shape="rect" id="node3" href="$class_pixel_buffer.html#abd5685a6a23041ed9640da9370eb7839" title="PixelBuffer::getHeight" alt="" coords="233,56,383,83"/>
+<area shape="rect" id="node4" href="$class_pixel_buffer.html#ae01450fb4e9824c1e93e92f4377e9924" title="PixelBuffer::getPixel" alt="" coords="237,107,379,133"/>
+<area shape="rect" id="node5" href="$class_color_data.html#ab7066467c08dfad868fc4b1add70c2f2" title="ColorData::getRed" alt="" coords="243,157,373,184"/>
+<area shape="rect" id="node6" href="$class_color_data.html#a7e2e03b8e1e3270f33c4e4a69c00dbd6" title="ColorData::getGreen" alt="" coords="237,208,379,235"/>
+<area shape="rect" id="node7" href="$class_color_data.html#ad9c600256c8abefdd76209fc1f68fcb5" title="ColorData::getBlue" alt="" coords="241,259,375,285"/>
+<area shape="rect" id="node8" href="$class_color_data.html#aa2e401956936f87a560b8f579514bf69" title="ColorData::setRed" alt="" coords="243,309,373,336"/>
+<area shape="rect" id="node9" href="$class_color_data.html#a4a7833dfef4a33eee3857de09a72aee1" title="ColorData::setGreen" alt="" coords="237,360,379,387"/>
+<area shape="rect" id="node10" href="$class_color_data.html#a01bbba90cac0bc1b3bd01d4aecc16477" title="ColorData::setBlue" alt="" coords="241,411,375,437"/>
+<area shape="rect" id="node11" href="$class_pixel_buffer.html#ae2f9f00bf68040a203d0314e46078f59" title="PixelBuffer::setPixel" alt="" coords="237,461,379,488"/>
+</map>

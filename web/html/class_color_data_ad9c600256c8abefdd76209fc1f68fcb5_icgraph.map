@@ -1,0 +1,20 @@
+<map id="ColorData::getBlue" name="ColorData::getBlue">
+<area shape="rect" id="node2" href="$class_color_data.html#a5479f50514f714dc9c738a50b7b86365" title="ColorData::clampedColor" alt="" coords="209,5,378,32"/>
+<area shape="rect" id="node3" href="$class_med_image_c_m_l.html#a9d649f3c014c51b2a11c8ac921b84281" title="MedImageCML::write\l_JPEG_file" alt="" coords="220,57,367,98"/>
+<area shape="rect" id="node9" href="$class_med_image_c_m_l.html#aadb53c0b9211e0c67a0c64c2644a0aad" title="MedImageCML::applyFilter\lThreshold" alt="" coords="473,71,652,113"/>
+<area shape="rect" id="node10" href="$class_med_image_c_m_l.html#a8ca28d5a0b9775f13a080cc224b51ebc" title="MedImageCML::applyFilter\lMultiplyRGB" alt="" coords="473,137,652,178"/>
+<area shape="rect" id="node11" href="$class_med_image_c_m_l.html#a8b21e9a6584ebae9a7d62b2fc6781fd7" title="MedImageCML::applyFilter\lSaturate" alt="" coords="473,202,652,243"/>
+<area shape="rect" id="node12" href="$class_med_image_c_m_l.html#ad40e857ed6d156db855dee53e28310b9" title="MedImageCML::applyFilters" alt="" coords="200,275,387,301"/>
+<area shape="rect" id="node16" href="$class_med_image_c_m_l.html#ab9462326b9e49bf7e9441b2d4f01c3aa" title="MedImageCML::applyFilter\lQuantize" alt="" coords="204,326,383,367"/>
+<area shape="rect" id="node17" href="$class_med_image_c_m_l.html#a1ec79d7352104ec472c09637cc69bdd3" title="MedImageCML::compareImages" alt="" coords="187,392,399,419"/>
+<area shape="rect" id="node18" href="$class_photo_shop.html#a5aa5fe2be28a7093a2a7351c0e059836" title="PhotoShop::mouseDragged" alt="" coords="202,443,385,469"/>
+<area shape="rect" id="node19" href="$class_photo_shop.html#a4a4f0a1738a8c198bee2109311394dc8" title="PhotoShop::leftMouseDown" alt="" coords="201,493,386,520"/>
+<area shape="rect" id="node4" href="$class_med_image_c_m_l.html#af2ec1af8089b835bc7c7bca8c478f278" title="MedImageCML::saveCanvasToFile" alt="" coords="449,20,677,47"/>
+<area shape="rect" id="node5" href="$class_med_image_c_m_l.html#a0531644d957fd8cb655a41e1c7217699" title="MedImageCML::processSingle" alt="" coords="726,275,927,301"/>
+<area shape="rect" id="node6" href="$class_med_image_c_m_l.html#aa51677a24406baa6dd2bdcb959b21010" title="MedImageCML::argument\l_check" alt="" coords="1248,267,1421,309"/>
+<area shape="rect" id="node8" href="$class_med_image_c_m_l.html#a30597bc6727893ef8cd058afb49794e5" title="MedImageCML::processSequence" alt="" coords="977,300,1199,327"/>
+<area shape="rect" id="node7" href="$_med_image_2src_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1469,275,1520,301"/>
+<area shape="rect" id="node13" href="$class_med_image_c_m_l.html#a4fb4b60cc8ba4b143ca1f7000b8e5410" title="MedImageCML::applyFilter\lSharpen" alt="" coords="473,267,652,309"/>
+<area shape="rect" id="node14" href="$class_med_image_c_m_l.html#a308a236f5fc1f50fb45c6a252ab6d872" title="MedImageCML::applyFilter\lEdgeDetect" alt="" coords="473,333,652,374"/>
+<area shape="rect" id="node15" href="$class_med_image_c_m_l.html#aa02ee0c2b4dd5ca5e36beaa964227f0f" title="MedImageCML::applyFilterBlur" alt="" coords="461,399,664,425"/>
+</map>

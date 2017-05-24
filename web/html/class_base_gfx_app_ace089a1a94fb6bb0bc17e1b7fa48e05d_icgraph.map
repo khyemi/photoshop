@@ -1,0 +1,10 @@
+<map id="BaseGfxApp::width" name="BaseGfxApp::width">
+<area shape="rect" id="node2" href="$class_base_gfx_app.html#a534a4b5293a35947fdae3805a103541d" title="BaseGfxApp::BaseGfxApp" alt="" coords="691,40,869,66"/>
+<area shape="rect" id="node3" href="$class_base_gfx_app.html#a5d8d5d778a8aecd7f5f8e9c87f4c3d20" title="BaseGfxApp::reshape" alt="" coords="234,65,385,92"/>
+<area shape="rect" id="node5" href="$class_base_gfx_app.html#a32fb420886f442d6be6b391a2ed3ecc1" title="BaseGfxApp::setWindowDimensions" alt="" coords="190,116,429,142"/>
+<area shape="rect" id="node6" href="$class_med_image_g_u_i.html#aef0c2979ffdbd03de6aa8fdc391badbb" title="MedImageGUI::mouseDragged" alt="" coords="208,166,411,193"/>
+<area shape="rect" id="node7" href="$class_med_image_g_u_i.html#ab051d9953334f7c6795dc65ce61f5004" title="MedImageGUI::leftMouseDown" alt="" coords="206,217,413,244"/>
+<area shape="rect" id="node8" href="$class_photo_shop.html#a5aa5fe2be28a7093a2a7351c0e059836" title="PhotoShop::mouseDragged" alt="" coords="218,268,401,294"/>
+<area shape="rect" id="node9" href="$class_photo_shop.html#a4a4f0a1738a8c198bee2109311394dc8" title="PhotoShop::leftMouseDown" alt="" coords="217,318,402,345"/>
+<area shape="rect" id="node4" href="$class_base_gfx_app.html#a5fe6a77d37044cbe28647ed3391bbb7a" title="BaseGfxApp::s_reshape" alt="" coords="478,65,642,92"/>
+</map>

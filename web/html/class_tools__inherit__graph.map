@@ -1,0 +1,9 @@
+<map id="Tools" name="Tools">
+<area shape="rect" id="node2" href="$class_blur.html" title="Blur" alt="" coords="5,80,51,107"/>
+<area shape="rect" id="node3" href="$class_cal_pen.html" title="CalPen" alt="" coords="75,80,140,107"/>
+<area shape="rect" id="node4" href="$class_eraser.html" title="Eraser" alt="" coords="165,80,224,107"/>
+<area shape="rect" id="node5" href="$class_highlight.html" title="Highlight" alt="" coords="249,80,321,107"/>
+<area shape="rect" id="node6" href="$class_pen.html" title="Pen" alt="" coords="347,80,392,107"/>
+<area shape="rect" id="node7" href="$class_special.html" title="Special" alt="" coords="417,80,481,107"/>
+<area shape="rect" id="node8" href="$class_spray_can.html" title="SprayCan" alt="" coords="507,80,585,107"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="libphoto/include/Tools.h" name="libphoto/include/Tools.h">
+<area shape="rect" id="node2" href="$_blur_8h.html" title="libphoto/include/Blur.h" alt="" coords="61,80,211,107"/>
+<area shape="rect" id="node4" href="$_cal_pen_8h.html" title="libphoto/include/CalPen.h" alt="" coords="296,80,467,107"/>
+<area shape="rect" id="node6" href="$_photo_shop_8cpp.html" title="Photoshop/src/PhotoShop.cpp" alt="" coords="730,155,928,181"/>
+<area shape="rect" id="node7" href="$_eraser_8h.html" title="libphoto/include/Eraser.h" alt="" coords="491,80,655,107"/>
+<area shape="rect" id="node9" href="$_highlight_8h.html" title="libphoto/include/Highlight.h" alt="" coords="680,80,859,107"/>
+<area shape="rect" id="node11" href="$_pen_8h.html" title="libphoto/include/Pen.h" alt="" coords="1338,80,1488,107"/>
+<area shape="rect" id="node13" href="$_med_image_c_m_l_8cpp.html" title="MedImage/src/MedImageCML.cpp" alt="" coords="1503,155,1725,181"/>
+<area shape="rect" id="node14" href="$_med_image_g_u_i_8cpp.html" title="MedImage/src/MedImageGUI.cpp" alt="" coords="1751,155,1969,181"/>
+<area shape="rect" id="node15" href="$_special_8h.html" title="libphoto/include/Special.h" alt="" coords="933,80,1104,107"/>
+<area shape="rect" id="node17" href="$_spray_can_8h.html" title="libphoto/include/SprayCan.h" alt="" coords="1129,80,1313,107"/>
+<area shape="rect" id="node19" href="$_tools_8cpp.html" title="libphoto/src/Tools.cpp" alt="" coords="1615,80,1765,107"/>
+<area shape="rect" id="node3" href="$_blur_8cpp.html" title="libphoto/src/Blur.cpp" alt="" coords="5,155,145,181"/>
+<area shape="rect" id="node5" href="$_cal_pen_8cpp.html" title="libphoto/src/CalPen.cpp" alt="" coords="171,155,332,181"/>
+<area shape="rect" id="node8" href="$_eraser_8cpp.html" title="libphoto/src/Eraser.cpp" alt="" coords="357,155,512,181"/>
+<area shape="rect" id="node10" href="$_highlight_8cpp.html" title="libphoto/src/Highlight.cpp" alt="" coords="537,155,705,181"/>
+<area shape="rect" id="node12" href="$_pen_8cpp.html" title="libphoto/src/Pen.cpp" alt="" coords="1339,155,1479,181"/>
+<area shape="rect" id="node16" href="$_special_8cpp.html" title="libphoto/src/Special.cpp" alt="" coords="953,155,1113,181"/>
+<area shape="rect" id="node18" href="$_spray_can_8cpp.html" title="libphoto/src/SprayCan.cpp" alt="" coords="1139,155,1315,181"/>
+</map>

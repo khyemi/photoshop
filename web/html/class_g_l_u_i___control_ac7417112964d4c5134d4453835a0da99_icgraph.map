@@ -1,0 +1,5 @@
+<map id="GLUI_Control::output_live" name="GLUI_Control::output_live">
+<area shape="rect" id="node2" href="$class_g_l_u_i___control.html#a32ef6d11d6c62e344f17268dfb96aad6" title="GLUI_Control::set_int_val" alt="" coords="232,5,405,32"/>
+<area shape="rect" id="node3" href="$class_g_l_u_i___control.html#a231fe69a978a66b858727e50327bcf59" title="GLUI_Control::set_float_val" alt="" coords="227,56,411,83"/>
+<area shape="rect" id="node4" href="$class_g_l_u_i___control.html#a9c732d42b7d5e418e59c307ef2d98d5c" title="GLUI_Control::set_ptr_val" alt="" coords="231,107,406,133"/>
+</map>

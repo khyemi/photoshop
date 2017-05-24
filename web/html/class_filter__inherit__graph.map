@@ -1,0 +1,6 @@
+<map id="Filter" name="Filter">
+<area shape="rect" id="node2" href="$class_blur___filter.html" title="Blur_Filter" alt="" coords="5,80,85,107"/>
+<area shape="rect" id="node3" href="$class_edge_detect___filter.html" title="EdgeDetect_Filter" alt="" coords="110,80,236,107"/>
+<area shape="rect" id="node4" href="$class_motion_blur___filter.html" title="MotionBlur_Filter" alt="" coords="261,80,381,107"/>
+<area shape="rect" id="node5" href="$class_sharpen___filter.html" title="Sharpen_Filter" alt="" coords="405,80,512,107"/>
+</map>

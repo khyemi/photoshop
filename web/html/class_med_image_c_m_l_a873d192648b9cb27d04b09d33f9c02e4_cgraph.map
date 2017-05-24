@@ -1,0 +1,10 @@
+<map id="MedImageCML::applyStampToCanvas" name="MedImageCML::applyStampToCanvas">
+<area shape="rect" id="node2" href="$class_pixel_buffer.html#a26dc9286596d27cd416d34611c00602e" title="PixelBuffer::getWidth" alt="" coords="259,5,405,32"/>
+<area shape="rect" id="node3" href="$class_pixel_buffer.html#abd5685a6a23041ed9640da9370eb7839" title="PixelBuffer::getHeight" alt="" coords="257,56,407,83"/>
+<area shape="rect" id="node4" href="$class_pixel_buffer.html#ae01450fb4e9824c1e93e92f4377e9924" title="PixelBuffer::getPixel" alt="" coords="261,107,403,133"/>
+<area shape="rect" id="node5" href="$class_color_data.html#a198c4490b4f1c512d2bc174418dc892a" title="ColorData::getAlpha" alt="" coords="262,157,402,184"/>
+<area shape="rect" id="node6" href="$class_color_data.html#aa2e401956936f87a560b8f579514bf69" title="ColorData::setRed" alt="" coords="267,208,397,235"/>
+<area shape="rect" id="node7" href="$class_color_data.html#a4a7833dfef4a33eee3857de09a72aee1" title="ColorData::setGreen" alt="" coords="261,259,403,285"/>
+<area shape="rect" id="node8" href="$class_color_data.html#a01bbba90cac0bc1b3bd01d4aecc16477" title="ColorData::setBlue" alt="" coords="265,309,399,336"/>
+<area shape="rect" id="node9" href="$class_pixel_buffer.html#ae2f9f00bf68040a203d0314e46078f59" title="PixelBuffer::setPixel" alt="" coords="261,360,403,387"/>
+</map>

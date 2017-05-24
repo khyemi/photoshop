@@ -1,0 +1,8 @@
+<map id="BaseGfxApp::height" name="BaseGfxApp::height">
+<area shape="rect" id="node2" href="$class_base_gfx_app.html#a534a4b5293a35947fdae3805a103541d" title="BaseGfxApp::BaseGfxApp" alt="" coords="693,25,872,52"/>
+<area shape="rect" id="node3" href="$class_base_gfx_app.html#a5d8d5d778a8aecd7f5f8e9c87f4c3d20" title="BaseGfxApp::reshape" alt="" coords="237,51,387,77"/>
+<area shape="rect" id="node5" href="$class_base_gfx_app.html#a32fb420886f442d6be6b391a2ed3ecc1" title="BaseGfxApp::setWindowDimensions" alt="" coords="193,101,431,128"/>
+<area shape="rect" id="node6" href="$class_photo_shop.html#a5aa5fe2be28a7093a2a7351c0e059836" title="PhotoShop::mouseDragged" alt="" coords="221,152,403,179"/>
+<area shape="rect" id="node7" href="$class_photo_shop.html#a4a4f0a1738a8c198bee2109311394dc8" title="PhotoShop::leftMouseDown" alt="" coords="219,203,405,229"/>
+<area shape="rect" id="node4" href="$class_base_gfx_app.html#a5fe6a77d37044cbe28647ed3391bbb7a" title="BaseGfxApp::s_reshape" alt="" coords="481,51,645,77"/>
+</map>

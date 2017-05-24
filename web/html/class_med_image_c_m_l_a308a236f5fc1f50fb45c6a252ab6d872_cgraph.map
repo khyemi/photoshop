@@ -1,0 +1,16 @@
+<map id="MedImageCML::applyFilterEdgeDetect" name="MedImageCML::applyFilterEdgeDetect">
+<area shape="rect" id="node2" href="$class_med_image_c_m_l.html#ad40e857ed6d156db855dee53e28310b9" title="MedImageCML::applyFilters" alt="" coords="232,325,419,352"/>
+<area shape="rect" id="node3" href="$class_filter.html#ac5674e8c2f7a18d0f8517972ac06704a" title="Filter::getKernel" alt="" coords="503,5,617,32"/>
+<area shape="rect" id="node4" href="$class_pixel_buffer.html#a26dc9286596d27cd416d34611c00602e" title="PixelBuffer::getWidth" alt="" coords="704,81,851,108"/>
+<area shape="rect" id="node5" href="$class_pixel_buffer.html#abd5685a6a23041ed9640da9370eb7839" title="PixelBuffer::getHeight" alt="" coords="702,165,853,192"/>
+<area shape="rect" id="node6" href="$class_pixel_buffer.html#a7eadc0d458fec5d0e0f502d279b86ea7" title="PixelBuffer::getBackground\lColor" alt="" coords="469,158,651,199"/>
+<area shape="rect" id="node7" href="$class_pixel_buffer.html#afedcf4028903278e8eacbd78d11232ee" title="PixelBuffer::copyPixelBuffer" alt="" coords="467,107,653,133"/>
+<area shape="rect" id="node8" href="$class_pixel_buffer.html#ae01450fb4e9824c1e93e92f4377e9924" title="PixelBuffer::getPixel" alt="" coords="489,275,631,301"/>
+<area shape="rect" id="node9" href="$class_color_data.html#ab7066467c08dfad868fc4b1add70c2f2" title="ColorData::getRed" alt="" coords="495,325,625,352"/>
+<area shape="rect" id="node10" href="$class_color_data.html#a7e2e03b8e1e3270f33c4e4a69c00dbd6" title="ColorData::getGreen" alt="" coords="489,376,631,403"/>
+<area shape="rect" id="node11" href="$class_color_data.html#ad9c600256c8abefdd76209fc1f68fcb5" title="ColorData::getBlue" alt="" coords="493,427,627,453"/>
+<area shape="rect" id="node12" href="$class_color_data.html#aa2e401956936f87a560b8f579514bf69" title="ColorData::setRed" alt="" coords="495,477,625,504"/>
+<area shape="rect" id="node13" href="$class_color_data.html#a4a7833dfef4a33eee3857de09a72aee1" title="ColorData::setGreen" alt="" coords="489,528,631,555"/>
+<area shape="rect" id="node14" href="$class_color_data.html#a01bbba90cac0bc1b3bd01d4aecc16477" title="ColorData::setBlue" alt="" coords="493,579,627,605"/>
+<area shape="rect" id="node15" href="$class_pixel_buffer.html#ae2f9f00bf68040a203d0314e46078f59" title="PixelBuffer::setPixel" alt="" coords="489,629,631,656"/>
+</map>

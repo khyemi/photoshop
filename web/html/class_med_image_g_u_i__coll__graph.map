@@ -1,0 +1,19 @@
+<map id="MedImageGUI" name="MedImageGUI">
+<area shape="rect" id="node2" href="$class_base_gfx_app.html" title="BaseGfxApp" alt="" coords="5,193,101,219"/>
+<area shape="rect" id="node3" href="$class_g_l_u_i.html" title="GLUI" alt="" coords="200,29,253,55"/>
+<area shape="rect" id="node6" href="$class_g_l_u_i___control.html" title="GLUI_Control" alt="" coords="970,142,1072,169"/>
+<area shape="rect" id="node4" href="$class_g_l_u_i___main.html" title="GLUI_Main" alt="" coords="364,347,452,374"/>
+<area shape="rect" id="node5" href="$class_g_l_u_i___node.html" title="GLUI_Node" alt="" coords="976,29,1067,55"/>
+<area shape="rect" id="node17" href="$class_g_l_u_i___list___item.html" title="GLUI_List_Item" alt="" coords="1471,193,1585,219"/>
+<area shape="rect" id="node10" href="$class_g_l_u_i___panel.html" title="GLUI_Panel" alt="" coords="720,245,813,271"/>
+<area shape="rect" id="node11" href="$class_g_l_u_i___static_text.html" title="GLUI_StaticText" alt="" coords="837,297,957,323"/>
+<area shape="rect" id="node12" href="$class_g_l_u_i___edit_text.html" title="GLUI_EditText" alt="" coords="967,245,1076,271"/>
+<area shape="rect" id="node13" href="$class_g_l_u_i___spinner.html" title="GLUI_Spinner" alt="" coords="1047,347,1151,374"/>
+<area shape="rect" id="node14" href="$class_g_l_u_i___button.html" title="GLUI_Button" alt="" coords="600,399,699,426"/>
+<area shape="rect" id="node16" href="$class_g_l_u_i___list.html" title="GLUI_List" alt="" coords="1339,347,1420,374"/>
+<area shape="rect" id="node18" href="$class_g_l_u_i___scrollbar.html" title="GLUI_Scrollbar" alt="" coords="1371,245,1481,271"/>
+<area shape="rect" id="node7" href="$class_g_l_u_i___c_b.html" title="GLUI_CB" alt="" coords="1387,29,1465,55"/>
+<area shape="rect" id="node8" href="$class_r_g_bc.html" title="RGBc" alt="" coords="485,245,543,271"/>
+<area shape="rect" id="node9" href="$class_g_l_u_i___std_bitmaps.html" title="GLUI_StdBitmaps" alt="" coords="568,245,696,271"/>
+<area shape="rect" id="node15" href="$class_g_l_u_i___file_browser.html" title="GLUI_FileBrowser" alt="" coords="810,482,939,509"/>
+</map>

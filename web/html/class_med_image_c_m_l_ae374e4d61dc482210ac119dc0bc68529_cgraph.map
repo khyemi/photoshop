@@ -1,0 +1,5 @@
+<map id="MedImageCML::write_PNG_file" name="MedImageCML::write_PNG_file">
+<area shape="rect" id="node2" href="$class_pixel_buffer.html#a26dc9286596d27cd416d34611c00602e" title="PixelBuffer::getWidth" alt="" coords="203,5,349,32"/>
+<area shape="rect" id="node3" href="$class_pixel_buffer.html#abd5685a6a23041ed9640da9370eb7839" title="PixelBuffer::getHeight" alt="" coords="201,56,351,83"/>
+<area shape="rect" id="node4" href="$class_pixel_buffer.html#ae01450fb4e9824c1e93e92f4377e9924" title="PixelBuffer::getPixel" alt="" coords="205,107,347,133"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="libphoto/include/Filter.h" name="libphoto/include/Filter.h">
+<area shape="rect" id="node2" href="$_blur___filter_8h.html" title="libphoto/include/Blur\l_Filter.h" alt="" coords="359,81,497,122"/>
+<area shape="rect" id="node4" href="$_med_image_c_m_l_8cpp.html" title="MedImage/src/MedImageCML.cpp" alt="" coords="206,179,428,205"/>
+<area shape="rect" id="node5" href="$_med_image_g_u_i_8cpp.html" title="MedImage/src/MedImageGUI.cpp" alt="" coords="617,179,836,205"/>
+<area shape="rect" id="node6" href="$_photo_shop_8cpp.html" title="Photoshop/src/PhotoShop.cpp" alt="" coords="1047,179,1245,205"/>
+<area shape="rect" id="node7" href="$_edge_detect___filter_8h.html" title="libphoto/include/EdgeDetect\l_Filter.h" alt="" coords="762,81,947,122"/>
+<area shape="rect" id="node9" href="$_motion_blur___filter_8h.html" title="libphoto/include/MotionBlur\l_Filter.h" alt="" coords="972,81,1151,122"/>
+<area shape="rect" id="node11" href="$_sharpen___filter_8h.html" title="libphoto/include/Sharpen\l_Filter.h" alt="" coords="522,81,685,122"/>
+<area shape="rect" id="node13" href="$_filter_8cpp.html" title="libphoto/src/Filter.cpp" alt="" coords="1225,88,1372,115"/>
+<area shape="rect" id="node3" href="$_blur___filter_8cpp.html" title="libphoto/src/Blur_Filter.cpp" alt="" coords="5,179,181,205"/>
+<area shape="rect" id="node8" href="$_edge_detect___filter_8cpp.html" title="libphoto/src/EdgeDetect\l_Filter.cpp" alt="" coords="860,171,1023,213"/>
+<area shape="rect" id="node10" href="$_motion_blur___filter_8cpp.html" title="libphoto/src/MotionBlur\l_Filter.cpp" alt="" coords="1269,171,1423,213"/>
+<area shape="rect" id="node12" href="$_sharpen___filter_8cpp.html" title="libphoto/src/Sharpen\l_Filter.cpp" alt="" coords="452,171,592,213"/>
+</map>

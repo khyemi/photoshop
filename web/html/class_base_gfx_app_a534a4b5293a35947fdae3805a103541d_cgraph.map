@@ -1,0 +1,32 @@
+<map id="BaseGfxApp::BaseGfxApp" name="BaseGfxApp::BaseGfxApp">
+<area shape="rect" id="node2" href="$class_base_gfx_app.html#ace089a1a94fb6bb0bc17e1b7fa48e05d" title="BaseGfxApp::width" alt="" coords="779,51,914,77"/>
+<area shape="rect" id="node3" href="$class_base_gfx_app.html#aa253dbe16a20c40e0a1bf8ff942ceea3" title="BaseGfxApp::height" alt="" coords="777,127,916,153"/>
+<area shape="rect" id="node4" href="$class_base_gfx_app.html#a5fe6a77d37044cbe28647ed3391bbb7a" title="BaseGfxApp::s_reshape" alt="" coords="263,88,427,115"/>
+<area shape="rect" id="node6" href="$class_base_gfx_app.html#a52edb2569227319feb68779844e7d857" title="BaseGfxApp::s_keyboard" alt="" coords="260,189,431,216"/>
+<area shape="rect" id="node8" href="$class_base_gfx_app.html#aa1ca205af9d6cee33949f2e6adf4c923" title="BaseGfxApp::s_keyboardup" alt="" coords="253,240,438,267"/>
+<area shape="rect" id="node10" href="$class_base_gfx_app.html#a1e8d90a4faab60300ddf2a4ea9b83115" title="BaseGfxApp::s_keyboardspecial" alt="" coords="239,291,451,317"/>
+<area shape="rect" id="node12" href="$class_base_gfx_app.html#a0e4dfe006f3cc9126c1cc8ad32784f75" title="BaseGfxApp::s_keyboardspecialup" alt="" coords="232,341,459,368"/>
+<area shape="rect" id="node14" href="$class_base_gfx_app.html#a5e640f2394f7e038d0dd2b469d5c2e24" title="BaseGfxApp::s_mousemotion" alt="" coords="247,392,443,419"/>
+<area shape="rect" id="node17" href="$class_base_gfx_app.html#a22dd953bfb75add9fd0f8f2f8be535c5" title="BaseGfxApp::s_mousebtn" alt="" coords="258,519,433,545"/>
+<area shape="rect" id="node24" href="$class_base_gfx_app.html#a58415c6151a2a80e1fe2eaa9919a4dab" title="BaseGfxApp::s_draw" alt="" coords="272,569,419,596"/>
+<area shape="rect" id="node27" href="$class_base_gfx_app.html#a272a9972092bed14572b0cff94415963" title="BaseGfxApp::s_idle" alt="" coords="276,620,415,647"/>
+<area shape="rect" id="node29" href="$class_g_l_u_i___master___object.html#a47180ea52267dd8355c607e3a1d51b7a" title="GLUI_Master_Object\l::create_glui" alt="" coords="273,671,418,713"/>
+<area shape="rect" id="node30" href="$class_g_l_u_i.html#adbf3736dbd0334a33677eae1a4baa8b9" title="GLUI::set_main_gfx\l_window" alt="" coords="276,737,415,778"/>
+<area shape="rect" id="node31" href="$class_g_l_u_i___master___object.html#a5d1b3a7cc294314dda9864cd7bd64a62" title="GLUI_Master_Object\l::set_glutIdleFunc" alt="" coords="273,802,418,843"/>
+<area shape="rect" id="node5" href="$class_base_gfx_app.html#a5d8d5d778a8aecd7f5f8e9c87f4c3d20" title="BaseGfxApp::reshape" alt="" coords="541,88,691,115"/>
+<area shape="rect" id="node7" href="$class_base_gfx_app.html#a6d91e0cb7a3d48cad33956efe7eb36ca" title="BaseGfxApp::keyboard" alt="" coords="537,189,695,216"/>
+<area shape="rect" id="node9" href="$class_base_gfx_app.html#acc4a40ce11edd6b6660a19cb4802a2bf" title="BaseGfxApp::keyboardUp" alt="" coords="529,240,703,267"/>
+<area shape="rect" id="node11" href="$class_base_gfx_app.html#a345566e62c9e4ec3705ec4d1c4c75f1f" title="BaseGfxApp::keyboardSpecial" alt="" coords="516,291,716,317"/>
+<area shape="rect" id="node13" href="$class_base_gfx_app.html#afd14b435ff93b1e7f461cb8bd1a6fd59" title="BaseGfxApp::keyboardSpecialUp" alt="" coords="507,341,725,368"/>
+<area shape="rect" id="node15" href="$class_base_gfx_app.html#abb23f716dd6612b3a72938e41525d338" title="BaseGfxApp::mouseDragged" alt="" coords="520,443,712,469"/>
+<area shape="rect" id="node16" href="$class_base_gfx_app.html#a0956b82d7fa58b623c498aea7073dbba" title="BaseGfxApp::mouseMoved" alt="" coords="525,392,707,419"/>
+<area shape="rect" id="node18" href="$class_base_gfx_app.html#a0a2961a932b02b2f9d7d0bb408f6fb51" title="BaseGfxApp::leftMouseUp" alt="" coords="527,747,705,773"/>
+<area shape="rect" id="node19" href="$class_base_gfx_app.html#aaaccf5a5e923a9465441a5ee712424a8" title="BaseGfxApp::leftMouseDown" alt="" coords="519,493,713,520"/>
+<area shape="rect" id="node20" href="$class_base_gfx_app.html#a812643d563522a993457dd565c33f8f6" title="BaseGfxApp::rightMouseUp" alt="" coords="523,544,709,571"/>
+<area shape="rect" id="node21" href="$class_base_gfx_app.html#afa87e6a71220945e41f0424e540125d9" title="BaseGfxApp::rightMouseDown" alt="" coords="515,595,717,621"/>
+<area shape="rect" id="node22" href="$class_base_gfx_app.html#a00fc05e8d9629b72302b5adf014bdb0c" title="BaseGfxApp::middleMouseUp" alt="" coords="517,645,715,672"/>
+<area shape="rect" id="node23" href="$class_base_gfx_app.html#a2c98cae9bb5ad1fb1832a6d4812670f8" title="BaseGfxApp::middleMouseDown" alt="" coords="509,696,723,723"/>
+<area shape="rect" id="node25" href="$class_base_gfx_app.html#ad667534069c50951121968a2027b58e2" title="BaseGfxApp::renderOneFrame" alt="" coords="515,797,717,824"/>
+<area shape="rect" id="node26" href="$class_base_gfx_app.html#ac8de2d5a955582547af5619b771b4d6d" title="BaseGfxApp::display" alt="" coords="774,797,919,824"/>
+<area shape="rect" id="node28" href="$class_base_gfx_app.html#a67737f7cc360b008394b1e882ed5b5d6" title="BaseGfxApp::update" alt="" coords="545,848,687,875"/>
+</map>

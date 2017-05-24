@@ -1,0 +1,19 @@
+<map id="PhotoShop" name="PhotoShop">
+<area shape="rect" id="node2" href="$class_base_gfx_app.html" title="BaseGfxApp" alt="" coords="1316,193,1412,219"/>
+<area shape="rect" id="node3" href="$class_g_l_u_i.html" title="GLUI" alt="" coords="1337,29,1391,55"/>
+<area shape="rect" id="node6" href="$class_g_l_u_i___control.html" title="GLUI_Control" alt="" coords="585,142,687,169"/>
+<area shape="rect" id="node4" href="$class_g_l_u_i___main.html" title="GLUI_Main" alt="" coords="1092,347,1180,374"/>
+<area shape="rect" id="node5" href="$class_g_l_u_i___node.html" title="GLUI_Node" alt="" coords="589,29,680,55"/>
+<area shape="rect" id="node17" href="$class_g_l_u_i___list___item.html" title="GLUI_List_Item" alt="" coords="67,193,181,219"/>
+<area shape="rect" id="node10" href="$class_g_l_u_i___panel.html" title="GLUI_Panel" alt="" coords="715,245,808,271"/>
+<area shape="rect" id="node11" href="$class_g_l_u_i___static_text.html" title="GLUI_StaticText" alt="" coords="785,297,905,323"/>
+<area shape="rect" id="node12" href="$class_g_l_u_i___edit_text.html" title="GLUI_EditText" alt="" coords="581,245,691,271"/>
+<area shape="rect" id="node13" href="$class_g_l_u_i___spinner.html" title="GLUI_Spinner" alt="" coords="525,347,629,374"/>
+<area shape="rect" id="node14" href="$class_g_l_u_i___button.html" title="GLUI_Button" alt="" coords="1204,399,1303,426"/>
+<area shape="rect" id="node16" href="$class_g_l_u_i___list.html" title="GLUI_List" alt="" coords="239,347,320,374"/>
+<area shape="rect" id="node18" href="$class_g_l_u_i___scrollbar.html" title="GLUI_Scrollbar" alt="" coords="345,245,455,271"/>
+<area shape="rect" id="node7" href="$class_g_l_u_i___c_b.html" title="GLUI_CB" alt="" coords="162,29,240,55"/>
+<area shape="rect" id="node8" href="$class_r_g_bc.html" title="RGBc" alt="" coords="1048,245,1105,271"/>
+<area shape="rect" id="node9" href="$class_g_l_u_i___std_bitmaps.html" title="GLUI_StdBitmaps" alt="" coords="1131,245,1259,271"/>
+<area shape="rect" id="node15" href="$class_g_l_u_i___file_browser.html" title="GLUI_FileBrowser" alt="" coords="659,475,788,502"/>
+</map>

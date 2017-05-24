@@ -1,0 +1,5 @@
+<map id="BaseGfxApp::s_reshape" name="BaseGfxApp::s_reshape">
+<area shape="rect" id="node2" href="$class_base_gfx_app.html#a5d8d5d778a8aecd7f5f8e9c87f4c3d20" title="BaseGfxApp::reshape" alt="" coords="219,31,370,57"/>
+<area shape="rect" id="node3" href="$class_base_gfx_app.html#ace089a1a94fb6bb0bc17e1b7fa48e05d" title="BaseGfxApp::width" alt="" coords="421,5,555,32"/>
+<area shape="rect" id="node4" href="$class_base_gfx_app.html#aa253dbe16a20c40e0a1bf8ff942ceea3" title="BaseGfxApp::height" alt="" coords="419,56,557,83"/>
+</map>

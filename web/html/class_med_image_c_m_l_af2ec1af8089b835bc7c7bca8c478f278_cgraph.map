@@ -1,0 +1,10 @@
+<map id="MedImageCML::saveCanvasToFile" name="MedImageCML::saveCanvasToFile">
+<area shape="rect" id="node2" href="$class_med_image_c_m_l.html#ae374e4d61dc482210ac119dc0bc68529" title="MedImageCML::write\l_PNG_file" alt="" coords="283,49,429,90"/>
+<area shape="rect" id="node6" href="$class_med_image_c_m_l.html#a9d649f3c014c51b2a11c8ac921b84281" title="MedImageCML::write\l_JPEG_file" alt="" coords="283,114,429,155"/>
+<area shape="rect" id="node3" href="$class_pixel_buffer.html#a26dc9286596d27cd416d34611c00602e" title="PixelBuffer::getWidth" alt="" coords="480,5,627,32"/>
+<area shape="rect" id="node4" href="$class_pixel_buffer.html#abd5685a6a23041ed9640da9370eb7839" title="PixelBuffer::getHeight" alt="" coords="478,56,629,83"/>
+<area shape="rect" id="node5" href="$class_pixel_buffer.html#ae01450fb4e9824c1e93e92f4377e9924" title="PixelBuffer::getPixel" alt="" coords="483,107,624,133"/>
+<area shape="rect" id="node7" href="$class_color_data.html#ab7066467c08dfad868fc4b1add70c2f2" title="ColorData::getRed" alt="" coords="488,157,619,184"/>
+<area shape="rect" id="node8" href="$class_color_data.html#a7e2e03b8e1e3270f33c4e4a69c00dbd6" title="ColorData::getGreen" alt="" coords="482,208,625,235"/>
+<area shape="rect" id="node9" href="$class_color_data.html#ad9c600256c8abefdd76209fc1f68fcb5" title="ColorData::getBlue" alt="" coords="487,259,620,285"/>
+</map>

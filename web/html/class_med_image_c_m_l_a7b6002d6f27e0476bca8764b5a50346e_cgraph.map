@@ -1,0 +1,5 @@
+<map id="MedImageCML::loadImageToCanvas" name="MedImageCML::loadImageToCanvas">
+<area shape="rect" id="node2" href="$class_pixel_buffer.html#a7eadc0d458fec5d0e0f502d279b86ea7" title="PixelBuffer::getBackground\lColor" alt="" coords="248,5,429,46"/>
+<area shape="rect" id="node3" href="$class_pixel_buffer.html#ae2f9f00bf68040a203d0314e46078f59" title="PixelBuffer::setPixel" alt="" coords="268,71,409,97"/>
+<area shape="rect" id="node4" href="$_med_image_c_m_l_8cpp.html#a866988c5e4bc23c53974fe3243f2ac65" title="my_error_exit" alt="" coords="288,121,389,148"/>
+</map>

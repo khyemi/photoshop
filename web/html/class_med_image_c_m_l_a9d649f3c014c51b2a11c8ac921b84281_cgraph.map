@@ -1,0 +1,8 @@
+<map id="MedImageCML::write_JPEG_file" name="MedImageCML::write_JPEG_file">
+<area shape="rect" id="node2" href="$class_pixel_buffer.html#a26dc9286596d27cd416d34611c00602e" title="PixelBuffer::getWidth" alt="" coords="203,5,349,32"/>
+<area shape="rect" id="node3" href="$class_pixel_buffer.html#abd5685a6a23041ed9640da9370eb7839" title="PixelBuffer::getHeight" alt="" coords="201,56,351,83"/>
+<area shape="rect" id="node4" href="$class_pixel_buffer.html#ae01450fb4e9824c1e93e92f4377e9924" title="PixelBuffer::getPixel" alt="" coords="205,107,347,133"/>
+<area shape="rect" id="node5" href="$class_color_data.html#ab7066467c08dfad868fc4b1add70c2f2" title="ColorData::getRed" alt="" coords="211,157,341,184"/>
+<area shape="rect" id="node6" href="$class_color_data.html#a7e2e03b8e1e3270f33c4e4a69c00dbd6" title="ColorData::getGreen" alt="" coords="205,208,347,235"/>
+<area shape="rect" id="node7" href="$class_color_data.html#ad9c600256c8abefdd76209fc1f68fcb5" title="ColorData::getBlue" alt="" coords="209,259,343,285"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="BaseGfxApp::s_mousebtn" name="BaseGfxApp::s_mousebtn">
+<area shape="rect" id="node2" href="$class_base_gfx_app.html#a0a2961a932b02b2f9d7d0bb408f6fb51" title="BaseGfxApp::leftMouseUp" alt="" coords="248,5,427,32"/>
+<area shape="rect" id="node3" href="$class_base_gfx_app.html#aaaccf5a5e923a9465441a5ee712424a8" title="BaseGfxApp::leftMouseDown" alt="" coords="240,56,435,83"/>
+<area shape="rect" id="node4" href="$class_base_gfx_app.html#a812643d563522a993457dd565c33f8f6" title="BaseGfxApp::rightMouseUp" alt="" coords="245,107,430,133"/>
+<area shape="rect" id="node5" href="$class_base_gfx_app.html#afa87e6a71220945e41f0424e540125d9" title="BaseGfxApp::rightMouseDown" alt="" coords="236,157,439,184"/>
+<area shape="rect" id="node6" href="$class_base_gfx_app.html#a00fc05e8d9629b72302b5adf014bdb0c" title="BaseGfxApp::middleMouseUp" alt="" coords="238,208,437,235"/>
+<area shape="rect" id="node7" href="$class_base_gfx_app.html#a2c98cae9bb5ad1fb1832a6d4812670f8" title="BaseGfxApp::middleMouseDown" alt="" coords="230,259,445,285"/>
+</map>

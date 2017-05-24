@@ -1,0 +1,6 @@
+<map id="Tools::getMask" name="Tools::getMask">
+<area shape="rect" id="node2" href="$class_med_image_g_u_i.html#aef0c2979ffdbd03de6aa8fdc391badbb" title="MedImageGUI::mouseDragged" alt="" coords="168,5,371,32"/>
+<area shape="rect" id="node3" href="$class_med_image_g_u_i.html#ab051d9953334f7c6795dc65ce61f5004" title="MedImageGUI::leftMouseDown" alt="" coords="166,56,373,83"/>
+<area shape="rect" id="node4" href="$class_photo_shop.html#a5aa5fe2be28a7093a2a7351c0e059836" title="PhotoShop::mouseDragged" alt="" coords="178,107,361,133"/>
+<area shape="rect" id="node5" href="$class_photo_shop.html#a4a4f0a1738a8c198bee2109311394dc8" title="PhotoShop::leftMouseDown" alt="" coords="177,157,362,184"/>
+</map>
