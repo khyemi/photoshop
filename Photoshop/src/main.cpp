@@ -9,8 +9,6 @@
  * @author Henry Luong, Xiaoxun Meng, Hye Mi Kim
  * @bug No known bugs.
  * 
- * 
- * 
  * *******************************************************************/
 
 
