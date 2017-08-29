@@ -23,7 +23,6 @@
 #include <png.h>
 #include <jpeglib.h>
 
-
 #include "ColorData.h"
 #include "PixelBuffer.h"
 #include "Tools.h"
@@ -97,11 +96,9 @@ void PhotoShop::backup(){
 
 
 
-
 /*****************************************************************************
  * 								Done!!!										 *
  *****************************************************************************/
-
 
 
 void PhotoShop::mouseDragged(int x, int y)
