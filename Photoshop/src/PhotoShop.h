@@ -11,8 +11,6 @@
  * @author Henry Luong, Xiaoxun Meng, Hye Mi Kim
  * @bug No known bugs.
  * 
- * 
- * 
  * *******************************************************************/
 
 #ifndef PHOTOSHOP_H
@@ -114,11 +112,7 @@ private:
     void applyFilters(int filterTool);
     int write_JPEG_file(std::string outputName);
     int write_PNG_file(std::string outputName);
-    
-    
-    
-    
-    
+        
     
     // PRIVATE MEMBER TASKS
     // Photoshop specific functions
